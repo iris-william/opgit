@@ -1,4 +1,5 @@
-<div align="center"><img src="assets/images/logo_opgit.png" alt="x" height="128"/></div>
+<div align="center"><img src="assets/images/logo_opgit.png" alt="x" height="128"/></div>  
+
 # <img src="assets/images/logo_opgit.png" alt="x" height="32pt"/> • OPGIT • <img src="assets/images/logo_opgit.png" alt="x" height="32pt"/>
 <img src="assets/flags/uk.svg" alt="x" height="12pt"/> A project to simplify git commands, to avoid the cognitive overload associated with nested commands.  
 
