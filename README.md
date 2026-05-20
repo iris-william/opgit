@@ -1,6 +1,9 @@
-<div align="center"><img src="assets/images/logo_opgit.png" alt="x" height="128"/></div>  
+<div align="center"><img src="assets/images/logo_opgit.png" alt="x" height="128"/>
 
-# <img src="assets/images/logo_opgit.png" alt="x" height="32pt"/> • OPGIT • <img src="assets/images/logo_opgit.png" alt="x" height="32pt"/>
+</div>  
+
+# <div align="center"><img src="assets/images/logo_opgit.png" alt="x" height="32pt"/> • OPGIT • <img src="assets/images/logo_opgit.png" alt="x" height="32pt"/></div>
+
 <img src="assets/flags/uk.svg" alt="x" height="12pt"/> A project to simplify git commands, to avoid the cognitive overload associated with nested commands.  
 
 The project is being built little by little. The files and commands will be uploaded gradually.  
