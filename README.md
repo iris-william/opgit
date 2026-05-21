@@ -2,10 +2,9 @@
 
 # <div align="center"><img src="assets/images/logo_opgit.png" alt="x" height="32pt"/> • OPGIT • <img src="assets/images/logo_opgit.png" alt="x" height="32pt"/></div>  
 
-## INTRODUCTION
 
-### <img src="assets/flags/uk.svg" alt="x" height="12pt"/> **Designed to simplify your Git commands usage and accelerate your versioning or sync processes.**  
- 
+<img src="assets/flags/uk.svg" alt="x" height="12pt"/> <u>**Designed to simplify your Git commands usage and accelerate versioning or sync processes.**</u>  
+
 The project is being built little by little.  
 The files and commands will be uploaded gradually.  
 Please be patient, dear friends.  
