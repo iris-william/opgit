@@ -9,8 +9,8 @@ The files and commands will be uploaded gradually.
 Please be patient, dear friends.  
 🕑 Coming soon...  in <img src="assets/flags/uk.svg" alt="x" height="12pt"/> english and <img src="assets/flags/france.svg" alt="x" height="12pt"/> french language
 
-<div><img src="assets/images/separator.svg" alt="x" height="1px" width="720px"/></br></div>
-
+<div></br></div>
+<img src="assets/images/separator.svg" alt="x" height="1px" />
 
 **<img src="assets/flags/france.svg" alt="x" height="12pt"/> Conçu pour simplifier l'usage des commandes Git et faciliter le versioning ou la synchronisation avec GitHub.**  
 
