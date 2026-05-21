@@ -4,7 +4,7 @@
 
 ## INTRODUCTION
 
-<img src="assets/flags/uk.svg" alt="x" height="12pt"/> **Designed to simplify your Git commands usage and accelerate your versioning or sync processes.**  
+### <img src="assets/flags/uk.svg" alt="x" height="12pt"/> **Designed to simplify your Git commands usage and accelerate your versioning or sync processes.**  
  
 The project is being built little by little.  
 The files and commands will be uploaded gradually.  
@@ -13,7 +13,7 @@ Please be patient, dear friends.
 <br><br>  
 
 ##
-<img src="assets/flags/france.svg" alt="x" height="12pt"/> **Conçu pour simplifier l'usage des commandes Git et faciliter le versioning ou la synchronisation avec GitHub.**  
+### <img src="assets/flags/france.svg" alt="x" height="12pt"/> **Conçu pour simplifier l'usage des commandes Git et faciliter le versioning ou la synchronisation avec GitHub.**  
 
 Le projet est en cours de développement.  
 Les fichiers et les commandes seront mises en ligne progressivement.  
